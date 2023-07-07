@@ -1,0 +1,28 @@
+.image_main_block
+{
+    width: 100%;
+    height:88.80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img_login
+{ 
+    width: 100% !important;
+    height: 100%;
+    background-image: url("https://c8.alamy.com/comp/2J5A49J/e-commerce-ecommerce-web-banner-on-violet-background-various-shopping-icons-online-shopping-concept-2J5A49J.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.login_model
+{
+    height: 50%;
+    width: 50%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px 6px black;
+    padding: 2%;
+}
